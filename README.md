@@ -106,3 +106,47 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thakur-Aditya/Thakur-Aditya/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Thakur-Aditya/Thakur-Aditya/output/github-snake.svg" />
 </picture>
+
+
+# Hi there, I'm Aditya Thakur! 👋
+
+## About Me
+
+I'm a passionate software developer with a keen interest in web development, open-source contributions, and learning new technologies. I love to solve problems and build projects that make a difference.
+
+- 🌱 I’m currently learning **React and Node.js**
+- 👯 I’m looking to collaborate on **open-source projects**
+- 🤔 I’m looking for help with **contributing to large-scale open-source projects**
+- 💬 Ask me about **JavaScript, Python, and Web Development**
+- 📫 How to reach me: [aditya@example.com](mailto:aditya@example.com)
+- ⚡ Fun fact: I love to play chess and read sci-fi novels.
+
+## Skills
+
+Here are some of the technologies and tools I work with:
+
+- **Languages**: JavaScript, Python, Java
+- **Frameworks/Libraries**: React, Node.js, Express.js, Django
+- **Databases**: MongoDB, MySQL, PostgreSQL
+- **Tools**: Git, Docker, VS Code, Postman
+
+## GitHub Stats
+
+![Thakur-Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thakur-Aditya&show_icons=true&theme=radical)
+
+## Projects
+
+Here are a few projects I've worked on recently:
+
+1. **[Project Name](https://github.com/Thakur-Aditya/project-name)**: Brief description of the project.
+2. **[Another Project](https://github.com/Thakur-Aditya/another-project)**: Brief description of the project.
+
+## Connect with Me
+
+Feel free to connect with me on:
+
+- [LinkedIn](https://www.linkedin.com/in/thakur-aditya)
+- [Twitter](https://twitter.com/thakur_aditya)
+- [Personal Blog/Website](https://www.adityathakur.com)
+
+Thank you for visiting my profile! Have a great day! 😊
