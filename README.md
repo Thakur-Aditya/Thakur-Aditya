@@ -5,7 +5,7 @@
 <!-- ### -->
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://www.linkedin.com/in/adityasingh-js/" ><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
@@ -23,7 +23,7 @@
 ###
 
 
-<img height="30" src="./duck waddle.gif"/>
+<img height="90" src="./duck waddle.gif"/>
 <h3 align="left"> About Me</h3>
 
 
@@ -130,9 +130,9 @@ Here are some of the technologies and tools I work with:
 - **Databases**: MongoDB, MySQL, PostgreSQL
 - **Tools**: Git, Docker, VS Code, Postman
 
-## GitHub Stats
+<!-- ## GitHub Stats
 
-![Thakur-Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thakur-Aditya&show_icons=true&theme=radical)
+![Thakur-Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thakur-Aditya&show_icons=true&theme=radical) -->
 
 ## Projects
 
